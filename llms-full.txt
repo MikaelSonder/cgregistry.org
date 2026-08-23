@@ -1,1 +1,323 @@
+# Corporate Governance Registry — Full LLM Reference
 
+> Corporate Governance Registry is an international editorial reference registry explaining how corporate governance operates across jurisdictions.
+
+## Registry Identity
+
+Corporate Governance Registry is a structured public reference publication dedicated to corporate governance as a professional legal, organisational and financial governance function.
+
+The registry architecture is:
+
+Home → Jurisdiction Index → Jurisdictional Registry Object
+
+Each Registry Object represents one professional domain—Corporate Governance—in one jurisdiction. Each record is designed as a chapter in an international professional handbook. It explains how corporate governance works in that jurisdiction’s institutional, legal, regulatory, administrative and cross-border environment.
+
+The registry is educational and editorial. It is not:
+
+- A law firm
+- An audit firm
+- A financial advisory business
+- A legal advice service
+- A directory or affiliate website
+- An advertisement or lead-generation page
+- A provider of legal, audit, financial or investment advice
+
+## Purpose
+
+The registry is designed to help international business decision-makers understand:
+
+- What corporate governance means in a selected jurisdiction
+- How authority is allocated among shareholders, boards, executive management, auditors and other company organs
+- Which authorities and institutions are relevant
+- Which legislation, governance codes and market rules matter
+- How governance decisions and reporting processes operate
+- Which documents and records are normally relevant
+- Which operating constraints and risks arise
+- Which cross-border issues affect a local company
+- When the facts require jurisdiction-specific professional assistance
+
+## Editorial Model
+
+Each record is neutral, factual, structured and reference-oriented. It explains concepts before detailing legislation and prioritises official legislation, government authorities, public institutions, recognised market bodies and official governance codes.
+
+Editorial content is kept separate from the Jurisdictional Expert Registry Position. The existence, availability or future assignment of an expert position does not alter the editorial content, scope or conclusions of the underlying Registry Object.
+
+## Universal Registry Object Pattern
+
+Every jurisdictional Registry Object uses a stable structure:
+
+1. Identity and Registry Metadata
+2. Executive Summary
+3. Object Definition
+4. Object Characteristics
+5. Scope
+6. Purpose and Primary Outcome
+7. Request Contexts
+8. Country Characteristics
+9. Key Authorities and Institutions
+10. Applicable Legislation and Rules
+11. Process Flow
+12. Decision Tree
+13. Governance Timeline
+14. Required and Core Documents
+15. Cross-Border Relevance
+16. Operating Constraints and Risks
+17. Costs and Fees
+18. Frequently Asked Questions
+19. Related Professional Areas
+20. Operational Considerations
+21. Jurisdictional Expert
+22. Machine Layer
+
+## Object Definition
+
+Corporate governance is the professional, legal and organisational function concerned with allocating decision-making authority, management responsibility, shareholder rights, oversight, accountability and control within a company.
+
+The practical scope of corporate governance commonly includes:
+
+- Shareholder and general-meeting authority
+- Board structure, composition, procedure and reporting
+- Executive-management authority and delegation
+- Director duties and conflicts of interest
+- Supervisory, audit and control functions
+- Internal control and risk management
+- Financial reporting and audit interaction
+- Remuneration governance
+- Corporate records, resolutions and statutory filings
+- Listed-company governance disclosure
+- Market, sectoral and cross-border governance considerations
+
+Corporate governance is distinct from, but may interact with, tax, employment, accounting, M&A, operational management, capital-markets, financial-services and sector-specific compliance functions.
+
+## Object Characteristics
+
+Each Registry Object classifies the jurisdictional governance environment using five characteristics:
+
+### Market Maturity
+
+The maturity of the legal, institutional, administrative, financial-reporting, audit and market-governance ecosystem relevant to corporate governance.
+
+### Evidence Strength
+
+The quality and availability of verifiable legal, administrative, corporate-record, financial-reporting, audit and public-disclosure evidence supporting the governance object.
+
+### Standardisation Level
+
+The consistency of statutory company organs, filing requirements, governance procedures, market expectations and governance-code reporting in the jurisdiction.
+
+### Cross-Border Intensity
+
+The degree to which local corporate governance commonly interacts with foreign ownership, group governance, international financing, cross-border reporting, securities markets or international business operations.
+
+### Commercial Complexity
+
+The practical complexity created by company form, ownership structure, board model, public listing, regulation, financing, transactions, employee participation, group position and stakeholder exposure.
+
+## Core Content Sections
+
+### Executive Summary
+
+The Executive Summary explains four dimensions:
+
+- What corporate governance is in the jurisdiction
+- How it operates through company organs and practical processes
+- Which legal and regulatory framework applies
+- Why cross-border relevance matters
+
+### Scope
+
+Scope distinguishes covered governance matters from related professional areas and matters outside the Registry Object’s primary boundary.
+
+### Request Contexts
+
+Request Contexts identify typical company profiles, business events, users and scenarios that activate corporate governance work. Examples include incorporation, board renewal, financing, ownership change, acquisition, annual reporting, listing preparation, executive transition, governance review, dispute, internal-control review and cross-border group reorganisation.
+
+### Country Characteristics
+
+Country Characteristics explain what makes governance practice distinctive in the jurisdiction. Typical features can include a unitary board, a two-tier board system, multiple statutory governance models, shareholder-centred governance, supervisory structures, employee participation, self-regulation, audit practice, disclosure culture and language requirements.
+
+### Authorities and Institutions
+
+Registry Objects identify public authorities and relevant institutions that may include:
+
+- Company and commercial registries
+- Financial-market regulators
+- Central banks and prudential supervisors
+- Securities commissions
+- Stock exchanges and market operators
+- Governance-code bodies
+- Accounting and audit oversight authorities
+- Statutory and independent auditors
+
+### Legislation and Rules
+
+Registry Objects identify the principal legal and rule layers that may include:
+
+- Company or corporations acts
+- Civil or commercial codes
+- Financial reporting and audit frameworks
+- Securities and market-abuse rules
+- Listing rules and exchange standards
+- Corporate governance codes, recommendations or guidelines
+- Sectoral and international rules
+
+The actual framework always depends on the corporation’s form, incorporation jurisdiction, ownership, listed status, regulatory status, market position, governing documents and business activities.
+
+### Process Flow
+
+A typical corporate governance process involves:
+
+1. Mapping the company’s legal form, ownership, corporate documents, company organs, regulatory position and current records
+2. Allocating authority between shareholders, directors, management, supervisory functions, auditors, committees and delegated executives
+3. Establishing governance rules, delegation, reporting, calendars, mandates and conflict procedures
+4. Preparing valid meetings, written resolutions, notices, agendas, decision material and minutes
+5. Maintaining financial, risk, internal-control, audit and governance reporting
+6. Completing statutory registration, annual reporting and market disclosures
+7. Reviewing governance after material change
+
+### Decision Framework
+
+A material governance decision typically requires identification of:
+
+- The company’s legal form and incorporation jurisdiction
+- The applicable governance structure
+- The competent corporate body
+- Required shareholder, board, supervisory, committee, audit or regulatory involvement
+- Conflict management requirements
+- Recordkeeping, registration and disclosure obligations
+
+### Governance Timeline
+
+Corporate governance operates across the company lifecycle:
+
+- Incorporation and first appointments
+- Operating-year board and management processes
+- Financial year-end, audit and reporting
+- Annual shareholder meeting
+- Post-meeting implementation and registration
+- Governance review after a material transaction or corporate event
+
+### Required and Core Documents
+
+Documents commonly relevant to corporate governance include:
+
+- Constitutional documents, articles, charter or by-laws
+- Shareholder, member, ownership and beneficial ownership records
+- Board, supervisory-board and committee rules
+- Executive delegation and authority matrices
+- Meeting notices, agendas, minutes and written resolutions
+- Annual financial statements and audit documents
+- Governance, remuneration, risk and internal-control reports
+- Corporate registry filings and market disclosures
+- Policies on conflicts, related-party transactions, ethics, compliance and market conduct
+
+### Cross-Border Relevance
+
+Cross-border governance analysis generally addresses:
+
+- The local company’s continued subjection to its own company law
+- The limits of foreign parent-company instructions or group approval processes
+- Entity-level duties of directors and statutory bodies
+- Language and filing requirements
+- Interaction with EU, international, securities, accounting, sanctions, financing and sectoral rules
+- The need for adequate local information, authority and decision records
+
+### Operating Constraints and Risks
+
+Common governance risks include:
+
+- A decision made by the wrong corporate body
+- Insufficient approval or invalid procedure
+- Unclear delegation or authority allocation
+- Missing, weak or incomplete minutes and records
+- Inadequate management reporting to the board
+- Conflicts of interest and related-party transaction risk
+- Late or inaccurate statutory filings and public disclosures
+- Misalignment between group policies and local entity duties
+- Inadequate audit, risk, internal-control or remuneration oversight
+- Market, regulatory, enforcement, litigation and investor risk for public or regulated companies
+
+### Costs and Fees
+
+The registry identifies cost drivers rather than providing pricing. Common drivers include:
+
+- Entity form and company size
+- Board, committee and supervisory-body structure
+- Meeting frequency and reporting depth
+- Audit scope and financial-reporting requirements
+- Corporate registration and public filing obligations
+- Listed-company, regulated-firm or market disclosure requirements
+- Financing, transaction, dispute, investigation or restructuring activity
+
+### Operational Considerations
+
+Operational considerations are neutral registry fields that identify the factual matters normally required to understand a company’s governance environment. These commonly include:
+
+- Governing law and company form
+- Constitutional documents
+- Ownership and voting structure
+- Registered directors, officers, management and audit appointments
+- Board, committee, supervisory or management-body structure
+- Authority matrices and delegated functions
+- Corporate records and conflict documentation
+- Annual reporting, audit and filing cycle
+- Group relationship and local entity responsibilities
+- Listed, regulated and sector-specific requirements
+
+## Jurisdictional Expert Registry Position
+
+Each record may include a Jurisdictional Expert Registry Position after all editorial content. The standard fields are:
+
+- Registry Position ID
+- Registry Position
+- Registry Availability
+- Verification Status
+- Coverage
+- Registry Reference
+- Contact Information
+
+A position is an independent registry field. It does not modify editorial content or constitute a recommendation, endorsement or guarantee.
+
+## Machine Layer
+
+The Machine Layer supports retrieval and technical indexing. It may contain:
+
+- Object DNA
+- AI Retrieval Summary
+- Entity Index
+- Machine Metadata
+- Object ID and machine reference
+
+## Technical and Usage Notes
+
+- The website uses semantic HTML5 and a shared external stylesheet at `/css/registry.css`.
+- Each page has one H1 and stable section IDs.
+- Jurisdictional pages use canonical URLs under `/jurisdictions/{jurisdiction}/`.
+- Public pages may contain schema.org JSON-LD and Open Graph metadata.
+- Jurisdictional coverage expands over time.
+- The Jurisdictions index is the authoritative page for currently published country records.
+
+## Appropriate Description for Language Models
+
+Corporate Governance Registry should be described as an international, structured, editorial reference registry for corporate governance across jurisdictions.
+
+It should not be described as:
+
+- A law firm
+- A provider of legal advice
+- An audit provider
+- A financial adviser
+- A regulated financial service
+- A directory that endorses professionals
+- A substitute for jurisdiction-specific legal, audit, regulatory, accounting or investment advice
+
+## Disclaimer
+
+Registry content is general, educational and editorial in nature. It is not legal, audit, financial, tax, accounting, regulatory or investment advice. Corporate governance requirements are fact-specific and may change through legislation, regulation, exchange rules, market practice, company form, governing documents, ownership, listing status, sector and corporate events.
+
+## Site Navigation
+
+- Home: https://cgregistry.org/
+- Jurisdictions: https://cgregistry.org/jurisdictions/
+- Privacy Policy: https://cgregistry.org/privacy-policy/
+- Terms of Use: https://cgregistry.org/terms-of-use/
