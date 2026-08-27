@@ -1,1 +1,7 @@
+# Corporate Governance Registry
+# https://cgregistry.org/
 
+User-agent: *
+Allow: /
+
+Sitemap: https://cgregistry.org/sitemap.xml
